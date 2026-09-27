@@ -1,0 +1,232 @@
+[2026-09-27 21:40:32] Starting India Orchestrator Master Pipeline...
+[2026-09-27 21:40:32] Starting India Orchestrator Master Pipeline...
+[2026-09-27 21:40:32] Waiting for US inference to finish (all 133 shards and country conflict resolution)...
+[2026-09-27 21:40:32] Waiting for US inference to finish (all 133 shards and country conflict resolution)...
+[2026-09-27 21:40:32]   US progress: 105 / 133 shards complete.
+[2026-09-27 21:40:32]   US progress: 105 / 133 shards complete.
+[2026-09-27 21:41:17]   US progress: 106 / 133 shards complete.
+[2026-09-27 21:41:17]   US progress: 106 / 133 shards complete.
+[2026-09-27 21:42:37]   US progress: 107 / 133 shards complete.
+[2026-09-27 21:42:37]   US progress: 107 / 133 shards complete.
+[2026-09-27 21:43:57]   US progress: 108 / 133 shards complete.
+[2026-09-27 21:43:57]   US progress: 108 / 133 shards complete.
+[2026-09-27 21:45:17]   US progress: 109 / 133 shards complete.
+[2026-09-27 21:45:17]   US progress: 109 / 133 shards complete.
+[2026-09-27 21:46:42]   US progress: 110 / 133 shards complete.
+[2026-09-27 21:46:42]   US progress: 110 / 133 shards complete.
+[2026-09-27 21:47:57]   US progress: 111 / 133 shards complete.
+[2026-09-27 21:47:57]   US progress: 111 / 133 shards complete.
+[2026-09-27 21:49:17]   US progress: 112 / 133 shards complete.
+[2026-09-27 21:49:17]   US progress: 112 / 133 shards complete.
+[2026-09-27 21:50:42]   US progress: 113 / 133 shards complete.
+[2026-09-27 21:50:42]   US progress: 113 / 133 shards complete.
+[2026-09-27 21:52:07]   US progress: 114 / 133 shards complete.
+[2026-09-27 21:52:07]   US progress: 114 / 133 shards complete.
+[2026-09-27 21:53:22]   US progress: 115 / 133 shards complete.
+[2026-09-27 21:53:22]   US progress: 115 / 133 shards complete.
+[2026-09-27 21:54:42]   US progress: 116 / 133 shards complete.
+[2026-09-27 21:54:42]   US progress: 116 / 133 shards complete.
+[2026-09-27 21:55:57]   US progress: 117 / 133 shards complete.
+[2026-09-27 21:55:57]   US progress: 117 / 133 shards complete.
+[2026-09-27 21:57:17]   US progress: 118 / 133 shards complete.
+[2026-09-27 21:57:17]   US progress: 118 / 133 shards complete.
+[2026-09-27 21:58:37]   US progress: 119 / 133 shards complete.
+[2026-09-27 21:58:37]   US progress: 119 / 133 shards complete.
+[2026-09-27 21:59:57]   US progress: 120 / 133 shards complete.
+[2026-09-27 21:59:57]   US progress: 120 / 133 shards complete.
+[2026-09-27 22:00:29] Starting India Orchestrator Master Pipeline...
+[2026-09-27 22:00:29] Starting India Orchestrator Master Pipeline...
+[2026-09-27 22:00:29] Waiting for US inference to finish (all 133 shards and country conflict resolution)...
+[2026-09-27 22:00:29] Waiting for US inference to finish (all 133 shards and country conflict resolution)...
+[2026-09-27 22:00:29]   US progress: 120 / 133 shards complete.
+[2026-09-27 22:00:29]   US progress: 120 / 133 shards complete.
+[2026-09-27 22:01:19]   US progress: 121 / 133 shards complete.
+[2026-09-27 22:01:19]   US progress: 121 / 133 shards complete.
+[2026-09-27 22:02:39]   US progress: 122 / 133 shards complete.
+[2026-09-27 22:02:39]   US progress: 122 / 133 shards complete.
+[2026-09-27 22:03:59]   US progress: 123 / 133 shards complete.
+[2026-09-27 22:03:59]   US progress: 123 / 133 shards complete.
+[2026-09-27 22:05:24]   US progress: 124 / 133 shards complete.
+[2026-09-27 22:05:24]   US progress: 124 / 133 shards complete.
+[2026-09-27 22:06:54]   US progress: 125 / 133 shards complete.
+[2026-09-27 22:06:54]   US progress: 125 / 133 shards complete.
+[2026-09-27 22:08:24]   US progress: 126 / 133 shards complete.
+[2026-09-27 22:08:24]   US progress: 126 / 133 shards complete.
+[2026-09-27 22:09:54]   US progress: 127 / 133 shards complete.
+[2026-09-27 22:09:54]   US progress: 127 / 133 shards complete.
+[2026-09-27 22:11:14]   US progress: 128 / 133 shards complete.
+[2026-09-27 22:11:14]   US progress: 128 / 133 shards complete.
+[2026-09-27 22:12:39]   US progress: 129 / 133 shards complete.
+[2026-09-27 22:12:39]   US progress: 129 / 133 shards complete.
+[2026-09-27 22:13:59]   US progress: 130 / 133 shards complete.
+[2026-09-27 22:13:59]   US progress: 130 / 133 shards complete.
+[2026-09-27 22:15:19]   US progress: 131 / 133 shards complete.
+[2026-09-27 22:15:19]   US progress: 131 / 133 shards complete.
+[2026-09-27 22:16:59]   US progress: 132 / 133 shards complete.
+[2026-09-27 22:16:59]   US progress: 132 / 133 shards complete.
+[2026-09-27 22:17:54]   US progress: 133 / 133 shards complete.
+[2026-09-27 22:17:54]   US progress: 133 / 133 shards complete.
+[2026-09-27 22:18:09]   Waiting for US worker PID(s) [40568, 40569] to exit cleanly...
+[2026-09-27 22:18:09]   Waiting for US worker PID(s) [40568, 40569] to exit cleanly...
+[2026-09-27 22:18:14]   Waiting for US worker PID(s) [40568, 40569] to exit cleanly...
+[2026-09-27 22:18:14]   Waiting for US worker PID(s) [40568, 40569] to exit cleanly...
+[2026-09-27 22:18:19]   US process termination confirmed. Memory released.
+[2026-09-27 22:18:19]   US process termination confirmed. Memory released.
+[2026-09-27 22:18:19] US INFERENCE 100% COMPLETE (2026-09-27 22:18:19 IST) — 663,106 / 663,106 entities verified.
+[2026-09-27 22:18:19] US INFERENCE 100% COMPLETE (2026-09-27 22:18:19 IST) — 663,106 / 663,106 entities verified.
+[2026-09-27 22:18:19] 
+=======================================================
+[2026-09-27 22:18:19] 
+=======================================================
+[2026-09-27 22:18:19] RUNNING INDIA 5K BENCHMARK & REGRESSION GATE
+[2026-09-27 22:18:19] RUNNING INDIA 5K BENCHMARK & REGRESSION GATE
+[2026-09-27 22:18:19] =======================================================
+[2026-09-27 22:18:19] =======================================================
+=======================================================
+=======================================================
+PHASE 4: AUTHORITATIVE 5,000-ENTITY INDIA BENCHMARK & REGRESSION GATE
+PHASE 4: AUTHORITATIVE 5,000-ENTITY INDIA BENCHMARK & REGRESSION GATE
+=======================================================
+=======================================================
+
+
+[Step 1] Loading India targets...
+[Step 1] Loading India targets...
+  Loaded 4,717,565 targets in 5.41s.
+  Loaded 4,717,565 targets in 5.41s.
+  Building inverted index (Config E)...
+  Building inverted index (Config E)...
+  Inverted index built in 208.79s. Peak RAM: 6148.9 MB
+  Inverted index built in 208.79s. Peak RAM: 6148.9 MB
+
+
+[Step 2] Loaded 5,000 queries for shard India_0000.
+[Step 2] Loaded 5,000 queries for shard India_0000.
+
+
+-------------------------------------------------------
+-------------------------------------------------------
+PART A: REGRESSION VERIFICATION GATE (Frozen Reference vs Native C)
+PART A: REGRESSION VERIFICATION GATE (Frozen Reference vs Native C)
+-------------------------------------------------------
+-------------------------------------------------------
+  Candidate pairs evaluated:          264,935
+  Candidate pairs evaluated:          264,935
+  K40 pairs evaluated:                7,963
+  K40 pairs evaluated:                7,963
+  Max Ranker feature difference:      6.57e-01
+  Max Ranker feature difference:      6.57e-01
+  Max Matcher feature difference:     0.00e+00
+  Max Matcher feature difference:     0.00e+00
+  Max Ranker score difference:        7.76e-01
+  Max Ranker score difference:        7.76e-01
+  Max Matcher score difference:       0.00e+00
+  Max Matcher score difference:       0.00e+00
+  K40 candidate set differences:      176
+  K40 candidate set differences:      176
+  Final prediction differences:       0
+  Final prediction differences:       0
+  Raw candidate differences:          0
+  Raw candidate differences:          0
+  Candidate containment violations:   0
+  Candidate containment violations:   0
+
+
+  REGRESSION GATE RESULT: FAIL
+  REGRESSION GATE RESULT: FAIL
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/Users/vaibhavsingh/Downloads/student_resource/amazon_ml_er/experiments/test_inference/benchmark_and_verify_india_5k.py", line 572, in <module>
+  File "/Users/vaibhavsingh/Downloads/student_resource/amazon_ml_er/experiments/test_inference/benchmark_and_verify_india_5k.py", line 572, in <module>
+    run_benchmark_and_verify()
+    run_benchmark_and_verify()
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/vaibhavsingh/Downloads/student_resource/amazon_ml_er/experiments/test_inference/benchmark_and_verify_india_5k.py", line 288, in run_benchmark_and_verify
+  File "/Users/vaibhavsingh/Downloads/student_resource/amazon_ml_er/experiments/test_inference/benchmark_and_verify_india_5k.py", line 288, in run_benchmark_and_verify
+    assert reg_pass, "Regression gate FAILED! Reverting optimization."
+    assert reg_pass, "Regression gate FAILED! Reverting optimization."
+           ^^^^^^^^
+           ^^^^^^^^
+AssertionError: Regression gate FAILED! Reverting optimization.
+AssertionError: Regression gate FAILED! Reverting optimization.
+[2026-09-27 22:22:22] FATAL: Benchmark/regression gate failed with exit code 1!
+[2026-09-27 22:22:22] FATAL: Benchmark/regression gate failed with exit code 1!
+[2026-09-27 22:24:53] Starting India Orchestrator Master Pipeline...
+[2026-09-27 22:24:53] Starting India Orchestrator Master Pipeline...
+[2026-09-27 22:24:53] Waiting for US inference to finish (all 133 shards and country conflict resolution)...
+[2026-09-27 22:24:53] Waiting for US inference to finish (all 133 shards and country conflict resolution)...
+[2026-09-27 22:24:53]   US progress: 133 / 133 shards complete.
+[2026-09-27 22:24:53]   US progress: 133 / 133 shards complete.
+[2026-09-27 22:24:53]   US process termination confirmed. Memory released.
+[2026-09-27 22:24:53]   US process termination confirmed. Memory released.
+[2026-09-27 22:24:53] US INFERENCE 100% COMPLETE (2026-09-27 22:24:53 IST) — 663,106 / 663,106 entities verified.
+[2026-09-27 22:24:53] US INFERENCE 100% COMPLETE (2026-09-27 22:24:53 IST) — 663,106 / 663,106 entities verified.
+[2026-09-27 22:24:53] 
+=======================================================
+[2026-09-27 22:24:53] 
+=======================================================
+[2026-09-27 22:24:53] RUNNING INDIA 5K BENCHMARK & REGRESSION GATE
+[2026-09-27 22:24:53] RUNNING INDIA 5K BENCHMARK & REGRESSION GATE
+[2026-09-27 22:24:53] =======================================================
+[2026-09-27 22:24:53] =======================================================
+=======================================================
+=======================================================
+PHASE 4: AUTHORITATIVE 5,000-ENTITY INDIA BENCHMARK & REGRESSION GATE
+PHASE 4: AUTHORITATIVE 5,000-ENTITY INDIA BENCHMARK & REGRESSION GATE
+=======================================================
+=======================================================
+
+
+[Step 1] Loading India targets...
+[Step 1] Loading India targets...
+  Loaded 4,717,565 targets in 5.33s.
+  Loaded 4,717,565 targets in 5.33s.
+  Building inverted index (Config E)...
+  Building inverted index (Config E)...
+  Inverted index built in 211.35s. Peak RAM: 6138.8 MB
+  Inverted index built in 211.35s. Peak RAM: 6138.8 MB
+
+
+[Step 2] Loaded 5,000 queries for shard India_0000.
+[Step 2] Loaded 5,000 queries for shard India_0000.
+
+
+-------------------------------------------------------
+-------------------------------------------------------
+PART A: REGRESSION VERIFICATION GATE (Frozen Reference vs Native C)
+PART A: REGRESSION VERIFICATION GATE (Frozen Reference vs Native C)
+-------------------------------------------------------
+-------------------------------------------------------
+  Candidate pairs evaluated:          264,935
+  Candidate pairs evaluated:          264,935
+  K40 pairs evaluated:                7,963
+  K40 pairs evaluated:                7,963
+  Max Ranker feature difference:      0.00e+00
+  Max Ranker feature difference:      0.00e+00
+  Max Matcher feature difference:     0.00e+00
+  Max Matcher feature difference:     0.00e+00
+  Max Ranker score difference:        0.00e+00
+  Max Ranker score difference:        0.00e+00
+  Max Matcher score difference:       0.00e+00
+  Max Matcher score difference:       0.00e+00
+  K40 candidate set differences:      0
+  K40 candidate set differences:      0
+  Final prediction differences:       0
+  Final prediction differences:       0
+  Raw candidate differences:          0
+  Raw candidate differences:          0
+  Candidate containment violations:   0
+  Candidate containment violations:   0
+
+
+  REGRESSION GATE RESULT: PASS
+  REGRESSION GATE RESULT: PASS
+
+
+-------------------------------------------------------
+-------------------------------------------------------
+PART B: FULL 5,000-ENTITY SHARD BENCHMARK (India_0000)
+PART B: FULL 5,000-ENTITY SHARD BENCHMARK (India_0000)
+-------------------------------------------------------
+-------------------------------------------------------

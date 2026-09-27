@@ -1,0 +1,39 @@
+=======================================================
+PHASE 4: AUTHORITATIVE 5,000-ENTITY INDIA BENCHMARK & REGRESSION GATE
+=======================================================
+
+[Step 1] Loading India targets...
+  Loaded 4,717,565 targets in 5.40s.
+  Building inverted index (Config E)...
+  Inverted index built in 212.72s. Peak RAM: 4200.3 MB
+
+[Step 2] Loaded 5,000 queries for shard India_0000.
+
+-------------------------------------------------------
+PART A: REGRESSION VERIFICATION GATE (Frozen Reference vs Native C)
+-------------------------------------------------------
+  Candidate pairs evaluated:          264,935
+  K40 pairs evaluated:                7,963
+  Max Ranker feature difference:      0.00e+00
+  Max Matcher feature difference:     0.00e+00
+  Max Ranker score difference:        0.00e+00
+  Max Matcher score difference:       0.00e+00
+  K40 candidate set differences:      0
+  Final prediction differences:       0
+  Raw candidate differences:          0
+  Candidate containment violations:   0
+
+  REGRESSION GATE RESULT: PASS
+
+-------------------------------------------------------
+PART B: FULL 5,000-ENTITY SHARD BENCHMARK (India_0000)
+-------------------------------------------------------
+  [Part B Blocker] 1,000/5,000 done (1,321,258 candidates)...
+  [Part B Blocker] 2,000/5,000 done (2,617,277 candidates)...
+  [Part B Blocker] 3,000/5,000 done (3,916,584 candidates)...
+  [Part B Blocker] 4,000/5,000 done (5,205,801 candidates)...
+  [Part B Blocker] 5,000/5,000 done (6,516,220 candidates)...
+  [Part B Stage 1 Blocker Complete] 2.59s (6,516,220 raw candidates)
+  [Part B Ranker Feat] 1,000/5,000 done (1,321,258 pairs)...
+  [Part B Ranker Feat] 2,000/5,000 done (2,617,277 pairs)...
+  [Part B Ranker Feat] 3,000/5,000 done (3,916,584 pairs)...
